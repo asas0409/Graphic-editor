@@ -5,7 +5,7 @@ package Graphic.editor;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "HelloWorld!";
     }
 
     public static void main(String[] args) {
